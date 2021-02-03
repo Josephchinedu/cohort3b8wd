@@ -103,5 +103,9 @@
 # print(x and y)
 # print(y and x or z)
 
-name = "alade"
-print("a" not in name)
+# name = "alade"
+# print("a" not in name)
+
+Question : input("What is you name : ")
+print(f"{Question} how are you")
+
